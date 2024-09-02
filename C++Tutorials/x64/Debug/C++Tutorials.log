@@ -1,0 +1,5 @@
+﻿  C++Tutorials.cpp
+C:\Users\byzdn\source\repos\C++Tutorials\C++Tutorials\C++Tutorials.cpp(28,13): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\byzdn\source\repos\C++Tutorials\C++Tutorials\C++Tutorials.cpp(28,22): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\byzdn\source\repos\C++Tutorials\C++Tutorials\C++Tutorials.cpp(28,32): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  C++Tutorials.vcxproj -> C:\Users\byzdn\source\repos\C++Tutorials\x64\Debug\C++Tutorials.exe

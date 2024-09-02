@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\byzdn\\source\\repos\\CplusplusTutorials\\Exercises\\Palindrome Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E864220B-9E16-4C80-94FC-FD427391BC74}|Palindrome Number.vcxproj|C:\\Users\\byzdn\\source\\repos\\CplusplusTutorials\\Exercises\\Palindrome Number\\Palindrome Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E864220B-9E16-4C80-94FC-FD427391BC74}|Palindrome Number.vcxproj|solutionrelative:Palindrome Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Palindrome Number.cpp",
+              "DocumentMoniker": "C:\\Users\\byzdn\\source\\repos\\CplusplusTutorials\\Exercises\\Palindrome Number\\Palindrome Number.cpp",
+              "RelativeDocumentMoniker": "Palindrome Number.cpp",
+              "ToolTip": "C:\\Users\\byzdn\\source\\repos\\CplusplusTutorials\\Exercises\\Palindrome Number\\Palindrome Number.cpp",
+              "RelativeToolTip": "Palindrome Number.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-02T12:26:18.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
