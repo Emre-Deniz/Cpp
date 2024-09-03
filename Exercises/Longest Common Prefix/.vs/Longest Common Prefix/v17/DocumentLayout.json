@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\byzdn\\source\\repos\\Cpp-Tutorials\\Exercises\\Longest Common Prefix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71186C54-5242-4F26-B8D7-A91844BEAFAB}|Longest Common Prefix.vcxproj|C:\\Users\\byzdn\\source\\repos\\Cpp-Tutorials\\Exercises\\Longest Common Prefix\\Longest Common Prefix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71186C54-5242-4F26-B8D7-A91844BEAFAB}|Longest Common Prefix.vcxproj|solutionrelative:Longest Common Prefix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Longest Common Prefix.cpp",
+              "DocumentMoniker": "C:\\Users\\byzdn\\source\\repos\\Cpp-Tutorials\\Exercises\\Longest Common Prefix\\Longest Common Prefix.cpp",
+              "RelativeDocumentMoniker": "Longest Common Prefix.cpp",
+              "ToolTip": "C:\\Users\\byzdn\\source\\repos\\Cpp-Tutorials\\Exercises\\Longest Common Prefix\\Longest Common Prefix.cpp",
+              "RelativeToolTip": "Longest Common Prefix.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T16:44:54.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  Longest Common Prefix.cpp
+C:\Users\byzdn\source\repos\Cpp-Tutorials\Exercises\Longest Common Prefix\Longest Common Prefix.cpp(13,63): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  Longest Common Prefix.vcxproj -> C:\Users\byzdn\source\repos\Cpp-Tutorials\Exercises\Longest Common Prefix\x64\Debug\Longest Common Prefix.exe
